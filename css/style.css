@@ -168,7 +168,9 @@ img.screenshot {
   border: solid 10px #ddd;
   margin: 1em 0 1em 0;
 }
-
+.fa-youtube-play {
+  color: #1AEA95;
+}
 
 
 /*////////////////////////////
