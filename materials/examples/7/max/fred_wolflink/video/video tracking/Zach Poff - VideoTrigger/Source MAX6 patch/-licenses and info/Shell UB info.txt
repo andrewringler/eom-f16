@@ -1,0 +1,4 @@
+This app contains the "Shell" external object originally created by Bill Orcutt, later updated by Jeremy Bernstein. 
+http://cycling74.com/download/Share/JeremyBernstein/shellUB.zip
+
+License is unknown, but source files are included in the download.

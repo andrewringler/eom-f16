@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "u641000673">
+	<slot number = "1">
+		<pattr name = "MemorizeNow" value = "-1" />
+		<pattr name = "adapt-time" value = "0" />
+		<pattr name = "background-mode" value = "0" />
+		<pattr name = "enter-menu1" value = "0" />
+		<pattr name = "enter-menu2" value = "0" />
+		<pattr name = "enter-menu3" value = "0" />
+		<pattr name = "enter-menu4" value = "0" />
+		<pattr name = "enter-menu5" value = "0" />
+		<pattr name = "enter-menu6" value = "0" />
+		<pattr name = "exit-menu1" value = "0" />
+		<pattr name = "exit-menu2" value = "0" />
+		<pattr name = "exit-menu3" value = "0" />
+		<pattr name = "exit-menu4" value = "0" />
+		<pattr name = "exit-menu5" value = "0" />
+		<pattr name = "exit-menu6" value = "0" />
+		<pattr name = "fade-in-time1" value = "10" />
+		<pattr name = "fade-in-time2" value = "10" />
+		<pattr name = "fade-in-time3" value = "10" />
+		<pattr name = "fade-in-time4" value = "10" />
+		<pattr name = "fade-in-time5" value = "10" />
+		<pattr name = "fade-in-time6" value = "10" />
+		<pattr name = "fade-out-time1" value = "10" />
+		<pattr name = "fade-out-time2" value = "10" />
+		<pattr name = "fade-out-time3" value = "10" />
+		<pattr name = "fade-out-time4" value = "10" />
+		<pattr name = "fade-out-time5" value = "10" />
+		<pattr name = "fade-out-time6" value = "10" />
+		<pattr name = "loop1" value = "0" />
+		<pattr name = "loop2" value = "0" />
+		<pattr name = "loop3" value = "0" />
+		<pattr name = "loop4" value = "0" />
+		<pattr name = "loop5" value = "0" />
+		<pattr name = "loop6" value = "0" />
+		<pattr name = "motion_sensitivity1" value = "0" />
+		<pattr name = "motion_sensitivity2" value = "0" />
+		<pattr name = "motion_sensitivity3" value = "0" />
+		<pattr name = "motion_sensitivity4" value = "0" />
+		<pattr name = "motion_sensitivity5" value = "0" />
+		<pattr name = "motion_sensitivity6" value = "0" />
+		<pattr name = "on/off1" value = "1" />
+		<pattr name = "on/off2" value = "0" />
+		<pattr name = "on/off3" value = "0" />
+		<pattr name = "on/off4" value = "0" />
+		<pattr name = "on/off5" value = "0" />
+		<pattr name = "on/off6" value = "0" />
+		<pattr name = "volume1" value = "0" />
+		<pattr name = "volume2" value = "0" />
+		<pattr name = "volume3" value = "0" />
+		<pattr name = "volume4" value = "0" />
+		<pattr name = "volume5" value = "0" />
+		<pattr name = "volume6" value = "0" />
+		<patcher name = "slicer">
+			<pattr name = "coords1" value = "2 6 50 45 23 32" />
+			<pattr name = "coords2" value = "59 7 103 47 78 34" />
+			<pattr name = "coords3" value = "108 9 157 47 129 35" />
+			<pattr name = "coords4" value = "13 138 57 180 32 166" />
+			<pattr name = "coords5" value = "167 113 222 180 191 153" />
+			<pattr name = "coords6" value = "251 117 297 195 271 163" />
+		</patcher>
+		<patcher name = "player1">
+			<pattr name = "sndfile1" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser1">
+			<pattr name = "matrix1" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "sound-settings-ctl">
+			<patcher name = "sound-settings">
+				<pattr name = "audio_driver" value = "&quot;Core Audio&quot;" />
+				<pattr name = "audio_option2" value = "" />
+				<pattr name = "audio_option2[1]" value = "&quot;Built-in Output&quot;" />
+			</patcher>
+		</patcher>
+		<patcher name = "player2">
+			<pattr name = "sndfile2" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser2">
+			<pattr name = "matrix2" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "player3">
+			<pattr name = "sndfile3" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser3">
+			<pattr name = "matrix3" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "player4">
+			<pattr name = "sndfile4" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser4">
+			<pattr name = "matrix4" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "player5">
+			<pattr name = "sndfile5" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser5">
+			<pattr name = "matrix5" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "player6">
+			<pattr name = "sndfile6" value = "0" />
+		</patcher>
+		<patcher name = "matrix_chooser6">
+			<pattr name = "matrix6" value = "0 0 1 1 1 1" />
+		</patcher>
+		<patcher name = "video-settings-ctl[1]">
+			<patcher name = "video-settings">
+				<pattr name = "capture_height" value = "120" />
+				<pattr name = "capture_width" value = "160" />
+				<pattr name = "input-select" value = "0" />
+				<pattr name = "syphon-app-name" value = "0" />
+				<pattr name = "syphon-servername" value = "0" />
+				<pattr name = "video_device" value = "&quot;USB Video Class Video&quot;" />
+				<pattr name = "video_input" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "script-window-ctl">
+			<patcher name = "matrix_chooser1">
+				<pattr name = "script-text-enter-1" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-enter-2" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-enter-3" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-enter-4" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-enter-5" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-enter-6" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-1" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-2" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-3" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-4" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-5" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-text-exit-6" value = "osascript /Users/Admin/Desktop/simple_beep.scpt" />
+				<pattr name = "script-toggle-enter-1" value = "0" />
+				<pattr name = "script-toggle-enter-2" value = "0" />
+				<pattr name = "script-toggle-enter-3" value = "0" />
+				<pattr name = "script-toggle-enter-4" value = "0" />
+				<pattr name = "script-toggle-enter-5" value = "0" />
+				<pattr name = "script-toggle-enter-6" value = "0" />
+				<pattr name = "script-toggle-exit-1" value = "0" />
+				<pattr name = "script-toggle-exit-2" value = "0" />
+				<pattr name = "script-toggle-exit-3" value = "0" />
+				<pattr name = "script-toggle-exit-4" value = "0" />
+				<pattr name = "script-toggle-exit-5" value = "0" />
+				<pattr name = "script-toggle-exit-6" value = "0" />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
