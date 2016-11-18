@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 625.0, 110.0, 1219.0, 823.0 ],
+		"rect" : [ 59.0, 103.0, 1219.0, 671.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -122,7 +122,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 710.0, 396.0, 320.0, 180.0 ],
+					"patching_rect" : [ 787.333313, 438.0, 320.0, 180.0 ],
 					"presentation_rect" : [ 0.0, 0.0, 320.0, 180.0 ],
 					"srcrect" : [ 0, 0, 640, 360 ]
 				}
@@ -469,7 +469,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 710.0, 253.5, 128.0, 130.0 ],
+					"patching_rect" : [ 710.0, 276.166656, 128.0, 130.0 ],
 					"prototypename" : "pixl",
 					"varname" : "pixl8r",
 					"viewvisibility" : 1
@@ -780,17 +780,17 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-7::obj-24" : [ "range[23]", "range", 0 ],
 			"obj-17::obj-39" : [ "pictctrl[1]", "pictctrl[1]", 0 ],
+			"obj-5" : [ "live.gain~", "live.gain~", 0 ],
 			"obj-7::obj-33" : [ "pictctrl[67]", "pictctrl[1]", 0 ],
 			"obj-7::obj-39" : [ "pictctrl[68]", "pictctrl[1]", 0 ],
-			"obj-5" : [ "live.gain~", "live.gain~", 0 ],
+			"obj-17::obj-64::obj-56" : [ "textbutton", "textbutton", 0 ],
+			"obj-17::obj-49" : [ "range[4]", "range", 0 ],
 			"obj-7::obj-37" : [ "vertical[2]", "vertical", 0 ],
 			"obj-7::obj-68" : [ "horizontal[2]", "horizontal", 0 ],
-			"obj-17::obj-49" : [ "range[4]", "range", 0 ],
 			"obj-17::obj-64::obj-40" : [ "umenu[2]", "umenu", 0 ],
-			"obj-17::obj-64::obj-56" : [ "textbutton", "textbutton", 0 ],
-			"obj-17::obj-38" : [ "pictctrl[2]", "pictctrl[1]", 0 ]
+			"obj-17::obj-38" : [ "pictctrl[2]", "pictctrl[1]", 0 ],
+			"obj-7::obj-24" : [ "range[23]", "range", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
