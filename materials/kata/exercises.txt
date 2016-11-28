@@ -1,0 +1,119 @@
+
+
+
+
+
+
+ / arrays / classes
+
+
+Concepts
+ / video / capture / etc…
+
+
+	
+	
+	
+	
+	In class exercises (before lecture) pairs
+	concepts to review: variables, math, random, animation, looping
+
+	- draw a line on the screen between two random points
+		- every second draw another random line, without erasing the first one
+	- draw 2 parallel lines at a random location
+		- every second draw another pair of parallel lines at a new random location
+			without erasing the previous pairs
+		- how about 50 parallel lines?
+		
+		
+		
+		
+		
+		
+		Take assignment 1, try to simplify the code,
+make it easier to make changes / explore by:
+* add variables
+* math
+* and loops
+
+Then make changes to your variables / save various versions	
+
+
+
+
+
+
+After lecture:
+- Draw a circle, triangle and square under the current mouse position
+- Draw two overlapping circles, draw them more overlapped when the mouse
+	is moving fast, and less overlapped when the mouse is moving slow
+	
+	
+	
+	
+	
+	In class exercises: (before lecture), first thing
+	- created a grid with lines
+	
+	In class exercises: (after lecture)
+	- update your grid code, use a for-loop
+	
+	
+	
+	
+	[Actual]
+pairs Ginnie/Raphael     Clapperton/Sajel
+-draw a vertical line of circles
+-draw a circle the takes up the entire canvas
+-draw a circle inside another circle
+-animate a circle growing
+
+
+
+- Critique (critique, YouTube) watch video: https://www.youtube.com/watch?v=9neybpOvjaQ thank Sayjel for posting it on her website, then actually have students present.
+- Brief review of concepts to-date and resources on course website. Drawing, variables, looping, animation.
+- 
+
+
+
+
+- Ask students to do a 2nd revision of hw #1, 30min ?maybe
+
+
+
+
+
+exercises should review variables, looping and animation
+mix of individual and pair exercises
+
+[Proposed]
+-horizontal line of 30 circles
+skills: for-loop, drawing
+
+-grid of rectangles
+skills: for-loops, drawing
+
+-animate a circle growing then shrinking, continually
+skills: animation, conditionals
+
+draw a grid pair programming
+
+
+
+
+
+
+
+drawing machine round-robin pairing
+
+
+
+
+
+
+
+
+	
+	
+	
+	
